@@ -34,9 +34,42 @@
    * Explain why it's essential for new engineers (in your own words)
 
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+*
+
+1. ls
+
+   Function description:
+Just simply shows the list of contents in that directory. 
+You can add some fancy option like
+-a for showing all contents, including the hidden ones. 
+-l for showing more details of contents like permissions etc. 
+
+   why it's essential:
+This function is 1 of the most normal function that every engineer must be able to use. It’s necessary to see what’s in the directory before you edit it. 
+
+2. grep
+
+   Function description:
+It means Global Regular Expression Print. For more human explanation, it searches the pattern form your input then shows it. 
+
+   why it's essential:
+We aren’t likely to use this in this semester but I quite sure that this might be useful in the future when I need to deal with thousands or more lines of codes. 
+
+*
 
 2. After one and a half years in the ISNE program, what advice would you give to prospective ISNE students? (Minimum 50 words)
 
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+*
+
+ I have nothing much to say, just “Run, Run Away !!!!!”.
+
+ OK, just kidding, you are better to get enough sleep now, before you won’t be able to afford it anymore.
+
+ Ok, Fine, the real suggestion I would give to future ISNE students is you shouldn’t be that serious, there are lots of fun here with your future friends, stay chill and relax,
+ because the course will torture you very hard. So, enjoy your life, go touch some grass as often as possible, because you will be shackled and screaming in front of your computer
+ in 30th year building or your house at 3 am because you have no idea how to fix the error in your code.
+
+ Moreover, try to send assignment on time. Especially, ken cosh’s. there are people who got F because of late submission. So sad. 
+
+*
